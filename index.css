@@ -1,0 +1,490 @@
+body{
+    background-color: white;
+    font-family: "DM Sans", sans-serif;
+}
+.element{
+display: flex;
+gap: 10px;
+
+}
+.login{
+    width: 95px;
+    height: 38px;
+    top: 39px;
+    left: 1205px;
+    border-radius: 4px;
+    background: linear-gradient(to right,rgba(50, 139, 203, 1),rgba(0, 84, 144, 1));      
+}
+.logoehya{
+    width: 90px;
+    height: 28px;
+    top: 47px;
+    left: 140px;
+    margin-top:20px ;
+    margin-left: 3%;
+}
+.start{
+    width: 1400px;
+    height: 800px;
+    top: 4454px;
+    left: 1005px;
+    background-color:rgba(0, 184, 217, 1);
+    color: white;
+}
+.vector{
+    width: 176.27446032124584px;
+    height: 50.92055525409123^px;
+    top: 520.65px;
+    left: 157.22px;
+    margin-top:-100%;
+}
+.wehelpyou{
+width: 623px;
+height: 241px;
+top: 247px;
+left: 140px;
+font-weight: 700px;
+font-size: 64px;
+line-height: 76px;
+letter-spacing: 0px;
+}
+
+.startbuttons{
+    display: flex;
+    gap:10px;
+    align-items: center;
+    margin-top: 5%;
+}
+.startbasgauche{
+width: 400px;
+margin-top: 2%;
+}
+.startbasdroite{
+margin-top: -20px;
+}
+
+.startphoto{
+    margin-top: -55%;
+    margin-left: -25%;
+}
+.startbutton1{
+    width: 197px;
+    height: 57px;
+    background-color: white;
+    color: rgba(0, 184, 217, 1);
+    border: none;
+    top: 630px;
+    left: 140px;
+    border-radius: 4px;
+    padding: 12px 24px;
+    font-size: 16px;
+    cursor: pointer;
+    font-weight: bold;
+    width: 197;
+
+}
+.startbutton2{
+    width: 197px;
+    height: 57px;
+    background-color:rgba(0, 184, 217, 1);
+    color: white;
+    border: none;
+    top: 630px;
+    left: 140px;
+    border-radius: 4px;
+    padding: 12px 24px;
+    font-size: 16px;
+    cursor: pointer;
+    font-weight: bold;
+   
+}
+.ehyatext{
+    width: 459px;
+    height: 78px;
+    top: 520px;
+    left: 140px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    letter-spacing: 0px;
+}
+.startbas{
+   display: flex;
+   gap:215px;
+   margin-left: 10%;
+   margin-top: 5%;
+}
+.starthaut{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.startlist{
+    margin-left: 20%;
+    display: flex;
+    align-items: center;
+    gap: 50px;
+}
+.section1{
+    margin-left: 8%;
+    margin-top: 6%;
+    display: flex;
+    flex-direction: column;
+    gap: 120px;
+    color: black;
+    width:  1400px;
+    height: 888.1226196289062;
+    top: 1127px;
+    left: -14.92px;
+
+}
+.slack
+{
+    width: 132.46902465820312px;
+    height: 38.18408203125px;
+    top: 988.61px;
+    left: 213.41px;
+    
+      
+}
+.netflix
+{
+    width: 115.69536590576172px;
+    height: 30.830801010131836px;
+    top: 991.95px;
+    left: 442.28px;
+       
+}
+.google
+{
+ width: 115.73870086669922px;
+height: 38.115386962890625px;
+top: 988.12px;
+left: 661.99px;
+
+      
+}
+.airbnb
+{
+    width: 115.7058334350586px;
+    height: 36.011905670166016px;
+    top: 989.42px;
+    left: 881.98px;
+     
+}
+.uber
+{
+width: 115.82196044921875px;
+height: 24.700883865356445px;
+top: 995.65px;
+left: 1101.87px;
+
+      
+}
+.hautsection1{
+    margin-right: 12.5%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 7%;
+    margin-top:5%;
+}
+.logosss{
+    display: flex;
+    justify-content: space-around;
+    gap: 30px;
+}
+.bassection1{
+    margin-right: 25%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+.sectiondroite1{
+    width:50%
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.sectiongauche1{
+    width:50%
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.section2{
+    margin-top: 10%;
+    margin-left: 8%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    color: black;
+    width: 1221px;
+    height: 550px;
+    top: 2026.14px;
+    left: 140px;
+}
+.phones{
+    width: 494px;
+    height: 550.853759765625px;
+   ²top: 1232.14px;
+    left: 148px;
+}
+.ipad{
+    width: 699.9544067382812px;
+    height: 410.389892578125px;
+    top: 2041.61px;
+    left: 661.05px;
+
+}
+
+
+.element{
+    display: flex;
+    gap:10px;
+    align-items: center;
+}
+.element img{
+    width: 16px;
+    height: 20px;
+}
+.section3{
+    margin-top: 10%;
+    margin-left: -2%;
+    width:  1400px;
+    height: 575px;
+    display: flex;
+    flex-direction: column;
+    color: black;
+    background-color: rgba(128, 128, 128, 0.034);
+}
+.hautsection3{
+    text-align: center;
+}
+.carré{
+    padding-top: 2%;
+    padding-left: 2%;
+    width: 258px;
+    height: 300px;
+    left: 435px;
+    top: 2904px;
+    background-color:white;
+}
+.carrétitles{
+
+    font-weight: 700px;
+    font-size: 20px;
+    line-height: 32px;
+    letter-spacing: 0.2px;
+
+}
+.bassection3{
+    margin-left: 10%;
+    display: flex;
+    gap: 30px;
+}
+.section4{
+    margin-top: 10%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    color: black;
+    width: 1400px;
+    height: 425.86px;
+}
+.sectiondroite4{
+    margin-left: -45%;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+.section4photosbat{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+.textfin{
+
+}
+
+.cerclebleusec4{
+
+    width: 36px;
+    height: 36px;
+    top: 3652px;
+    left: 1264px;
+    margin-right: -35px;
+
+}
+.chevroncontraire{
+    margin-bottom: -9%;
+    margin-right: 32%;
+    width: 24px;
+    height: 24px;
+    top: 3658px;
+    left: 754px;
+}
+.chevronsec4{
+    margin-bottom: 7px;
+    width: 24px;
+    height: 24px;
+    top: 3658px;
+    left: 1270px;
+
+}
+.figure{
+    width: 56px;
+    height: 56px;
+    top: 3640px;
+    left: 822px;
+
+}
+.listcercles{
+    display: flex;
+    gap: 5px;
+    margin-left: -10px;
+}
+.logobleu{
+    margin-left: -10%;
+
+}
+.login{
+    width: 95;
+    height: 38;
+    top: 39px;
+    left: 1205px;
+    border-radius: 4px;
+    background-color: rgba(0, 84, 144, 1);
+    color: white;
+    border: none;
+    border-radius: 4px;
+    padding: 12px 24px;
+    font-size: 16px;
+    cursor: pointer;
+    font-weight: bold;
+    margin-top: 20px;
+
+}
+.fin{
+    display: flex;
+    gap: 10px;
+    align-items: center;
+
+}
+.title1, .title2,  .title3, .title4, .texto
+{
+    color: #034d82;
+    font-weight: bold;   
+    font-family: "DM Sans", sans-serif;
+}
+
+ul{
+    list-style-type: none;
+    
+}
+li{
+    margin-top: 1em;
+}
+.section5{
+    margin-top: 10%;
+    margin-left: 8%;
+    width:1159px;
+    height:360px;
+    top: 3958px;
+    left: 141px;
+    background: linear-gradient(to right,rgba(36, 206, 237, 1),rgba(1, 184, 217, 1)); 
+    border-radius: 4px;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.get{
+    width: 204px;
+    height: 57px;
+    top: 4103px;
+    left: 1005px;
+    border-radius: 4px;
+    color: rgba(0, 184, 217, 1);
+    background-color: rgba(255, 255, 255, 1);
+    border: none;
+    font-size: 16px;
+    cursor: pointer;
+    font-weight: bold;
+}
+.lescercles{
+    margin-right:-4%;
+}
+.émoji{
+    width: 34.1717529296875px;
+    height: 32px;
+    top: 4117px;
+    left: 330px;
+    margin-top: 27%;
+    margin-left: -57%;
+}
+.media{
+    display: flex;
+    gap: 5px;
+    align-items: center;
+}
+.personnes{
+    display: flex;
+    gap: 5px;
+    align-items: center;
+}
+
+footer{
+    padding-top: 4%;
+    padding-right:15%;
+    margin-top: 10%;
+    width: 1400px;
+    height: 550px;
+    top: 4494px;
+    left: -1px;
+    background-color: rgba(8, 19, 21, 1);
+    color:white;
+  }
+  .listfooter{
+    display: flex;
+    flex-direction: column;
+  }
+.endhaut{
+    margin-right: 6%;
+    display: flex;
+    justify-content:center;
+    gap: 50px;
+
+}
+.endbas{
+   margin-left: 6%;
+   margin-top: 5%;
+   display: flex;
+   flex-direction: column;
+   gap: 20px;
+   align-items: center;
+
+}
+.imagesfooter{
+    display: flex;
+    gap: 5px;
+}
+.petittext{
+font-weight: 400;
+font-size: 16px;
+line-height: 32px;
+letter-spacing: 0.3px;
+color: grey
+}
+@media screen and (max-width:390px) {
+    .section1, .section2, .section3, .section4, .section5{
+display: flex;
+flex-direction: column;
+width: 100%;
+justify-content: center;
+align-items: center;
+padding: 2rem;
+
+    }
+} 
